@@ -1,3 +1,5 @@
-Welcome!
+Hi!
+Hello
 For the purpose of practicing I'm using GIT which help me in internship at Technocolabs
-Thanks
+Check it.
+
