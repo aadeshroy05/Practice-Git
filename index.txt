@@ -1,5 +1,5 @@
 hey!
-This is my first file of project which is index.
-look onto it.
+This is my first file of project which is Home.
+look onto it I changes the name.
 And this will also use as HOME page for the website.
-home is another name of index.
+First page is also name of index or home
